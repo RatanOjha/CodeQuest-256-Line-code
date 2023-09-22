@@ -1,0 +1,251 @@
+
+Welcome to the Space Adventure Game!
+Do you want to be the captain or a crew member? Enter 'captain' or 'crew': captain
+Enter your name: Ratan
+
+Location: Space
+You are the captain of the starship 'Odyssey' on a mission to explore the cosmos.
+Player: Ratan
+Location: Space
+Fuel: 100
+Steps: 0 / 20
+Inventory: []
+Money: 0
+
+
+Options:
+1: Explore nearby asteroid field
+2: Refuel at space station
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 90
+Steps: 1 / 20
+Inventory: ['Star Map']
+Money: 0
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 2
+You traded Star Map with the space station.
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 90
+Steps: 1 / 20
+Inventory: []
+Money: 45
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 2
+You have nothing to trade.
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 90
+Steps: 1 / 20
+Inventory: []
+Money: 45
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 3
+Changing location...............
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 79
+Steps: 2 / 20
+Inventory: ['Alien Artifact']
+Money: 45
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 3
+Changing location...............
+100
+
+Location: Deep Space
+You find yourself in the depths of space, far from any celestial objects. An eerie calm surrounds you.
+Player: Ratan
+Location: Deep Space
+Fuel: 75
+Steps: 3 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal']
+Money: 45
+
+
+Options:
+1: Continue drifting through deep space
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Deep Space
+You find yourself in the depths of space, far from any celestial objects. An eerie calm surrounds you.
+Player: Ratan
+Location: Deep Space
+Fuel: 64
+Steps: 4 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule']
+Money: 45
+
+
+Options:
+1: Continue drifting through deep space
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Ancient Ruins
+You stumble upon the ruins of an ancient civilization. What secrets do they hold?
+Player: Ratan
+Location: Ancient Ruins
+Fuel: 56
+Steps: 5 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Medikit']
+Money: 45
+
+
+Options:
+1: Investigate the ruins
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Space Wormhole
+A swirling wormhole opens before you, offering a mysterious shortcut through space and time.
+Player: Ratan
+Location: Space Wormhole
+Fuel: 49
+Steps: 6 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Medikit', 'Energy Crystal']
+Money: 45
+
+
+Options:
+1: Avoid the wormhole and continue your current course
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Alien Planet
+You land on an alien planet with lush forests and strange creatures. It's a world of mysteries.
+Player: Ratan
+Location: Alien Planet
+Fuel: 39
+Steps: 7 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Medikit', 'Energy Crystal', 'Star Map']
+Money: 45
+
+
+Options:
+1: Explore the planet's forests
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 25
+Steps: 8 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Medikit', 'Energy Crystal', 'Star Map', 'Energy Crystal']
+Money: 45
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 2
+You traded Medikit with the space station.
+100
+
+Location: Space Station
+The space station offers refueling and trading. Make wise decisions to succeed.
+Player: Ratan
+Location: Space Station
+Fuel: 25
+Steps: 8 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Energy Crystal', 'Star Map', 'Energy Crystal']
+Money: 125
+
+
+Options:
+1: Refuel your spaceship
+2: Trade with the station
+3: Leave the station
+Enter your choice: 3
+Changing location...............
+100
+
+Location: Lost in Nebula
+Your ship is enveloped in a colorful nebula. Visibility is low, and navigation is challenging.
+Player: Ratan
+Location: Lost in Nebula
+Fuel: 11
+Steps: 9 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Energy Crystal', 'Star Map', 'Energy Crystal', 'Star Map']
+Money: 125
+
+
+Options:
+1: Navigate carefully through the nebula
+2: Return to space
+3: Check inventory
+4: Quit
+Enter your choice: 1
+100
+
+Location: Deep Space
+You find yourself in the depths of space, far from any celestial objects. An eerie calm surrounds you.
+Player: Ratan
+Location: Deep Space
+Fuel: 0
+Steps: 10 / 20
+Inventory: ['Alien Artifact', 'Energy Crystal', 'Time Capsule', 'Energy Crystal', 'Star Map', 'Energy Crystal', 'Star Map', 'Medikit']
+Money: 125
+
+
+You've run out of fuel! Game over.
+You also broke record
